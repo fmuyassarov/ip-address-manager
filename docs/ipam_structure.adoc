@@ -1,0 +1,11 @@
+= Ip-address-manager
+:toc: left
+:sectnums:
+
+include::api.adoc[]
+
+include::testing.adoc[]
+
+include::deployment_workflow.adoc[]
+
+include::releasing.adoc[]
