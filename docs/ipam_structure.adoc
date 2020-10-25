@@ -1,4 +1,4 @@
-= Ip-address-manager
+= *IP-ADDRESS-MANAGER*
 :toc: left
 :sectnums:
 
